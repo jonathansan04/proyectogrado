@@ -7,6 +7,14 @@ const links = [
         href: "/home",
     },
     {
+        name:"¿Como funciona?",
+        href:"/funcion",
+    },
+    {
+        name:"¿Quienes somos?",
+        href:"/quienes",
+    },
+    {
         name:"Contacto",
         href:"/contact",
     },
